@@ -109,6 +109,6 @@ document.getElementById('previous').addEventListener('click', ()=>{
 })
 
   
-console.log("My spotify sod")
+console.log("My spotify")
 
 
