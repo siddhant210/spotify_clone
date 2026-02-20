@@ -109,6 +109,6 @@ document.getElementById('previous').addEventListener('click', ()=>{
 })
 
   
-console.log("My spotify")
+console.log("My spotify application")
 
 
