@@ -109,3 +109,7 @@ document.getElementById('previous').addEventListener('click', ()=>{
 })
 
 console.log("Welcome to Spotify");
+
+
+
+console.log("Welcome to Spotify");
