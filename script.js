@@ -108,8 +108,7 @@ document.getElementById('previous').addEventListener('click', ()=>{
     masterPlay.classList.add('fa-pause-circle');
 })
 
-console.log("Welcome to Spotify");
+console.log("Welcome to Sidfy");
 
 
 
-console.log("Welcome to Spotify");
