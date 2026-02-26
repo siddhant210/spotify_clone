@@ -107,7 +107,8 @@ document.getElementById('previous').addEventListener('click', ()=>{
     masterPlay.classList.remove('fa-play-circle');
     masterPlay.classList.add('fa-pause-circle');
 })
-="Welcome to Sidfy");
+
+console.log("Welcome to Sidfy");
 
 
 
