@@ -109,6 +109,6 @@ document.getElementById('previous').addEventListener('click', ()=>{
 })
 
   
-console.log("My spotify 1.0 is ready");
+console.log("My spotify 1.0 is ready    ");
 
 
