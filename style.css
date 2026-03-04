@@ -543,7 +543,7 @@ nav ul li:hover {
     content: '';
     position: absolute;
     top: -2px;
-    left: -2-8px;
+    left: -2px;
     right: -2px;
     bottom: -2px;
     background: linear-gradient(45deg, #ff006e, #8338ec, #3a86ff, #06ffa5, #ff006e);
