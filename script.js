@@ -1,3 +1,5 @@
+const { SortDesc } = require("lucide-react");
+
 console.log("Welcome to Spotify");
 
 // Initialize the Variables
@@ -109,6 +111,6 @@ document.getElementById('previous').addEventListener('click', ()=>{
 })
 
   
-console.log("My spotify 1.0 is ready");
+console.log("My spotify 1.0 is ready" SortDesc sid );
 
 
