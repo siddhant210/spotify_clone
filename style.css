@@ -546,8 +546,8 @@ nav ul li:hover {
     left: -2px;
     right: -2px;
     bottom: -2px;
-    background: linear-gradient(90deg, #ff006e, #8338ec, #3a86ff, #06ffa5, #ff006e);
-    background-size: 400% 400%;
+    background: linear-gradient(90deg, #300115, #1d083b, #03132c, #022518, #7c425b);
+    background-size: 200% 400%;
     z-index: -1;
     border-radius: 26px;
     animation: rainbowBorder 4s linear infinite;
