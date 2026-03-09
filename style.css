@@ -71,7 +71,7 @@ nav ul{
     backdrop-filter: blur(20px);
     color: white;
     border-bottom: 2px solid #ff006e;
-    box-shadow: 0 0 30px rgba(255, 0, 110, 0.5);
+    
 }
 
 nav ul li{
